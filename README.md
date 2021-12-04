@@ -17,5 +17,3 @@ Sklonuj repozytorium. Będziesz potrzebował `node` oraz `npm` zainstalowanych g
 ### Uruchomienie aplikacji
 
 Otwórz przeglądarkę i wprowadź adres `localhost:3000`
-
-### [Wersja live](dplotek.github.io/grupa-it-zadanie-3-1/)
